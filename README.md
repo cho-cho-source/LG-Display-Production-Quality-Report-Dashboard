@@ -1,5 +1,10 @@
-# LG-Display-Production-Quality-Report-Dashboard
+
 **날짜 : 2026년 09월 14일**
+
+<img width="985" height="795" alt="image" src="https://github.com/user-attachments/assets/07059f29-3d22-45b6-8e71-76d70da49cfe" />
+
+
+
 
 LG디스플레이 생산·품질 업무를 이해하기 위해 제작한 **교육용 생산·품질 보고서 웹 서비스**입니다.
 Google Colab 환경에서 Flask 기반 웹 서버를 실행하고, Three.js를 이용하여 패널 검사·이송 설비를 3D로 구현했습니다.
